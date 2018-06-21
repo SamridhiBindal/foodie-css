@@ -1,0 +1,146 @@
+body{
+    background-image: url(V4uJ.gif);
+    background-size: 400px;
+    opacity: 50%;
+}
+.top-button{
+     padding: 15px 30px;
+    text-align: center;
+    display: inline-block;
+    font-size: 18px;
+    margin: 4px 2px;
+    cursor:pointer;
+    box-shadow: 3px grey;
+    background-color: #849b87;
+    color: #ffffff;
+    opacity: 0.7;
+    text-shadow: 1px;
+    
+    float:right;
+    font-family: "Oswald";
+}
+
+.button{
+    
+    padding: 15px 30px;
+    text-align: center;
+    display: inline-block;
+    font-size: 18px;
+    margin: 4px 2px;
+    cursor:pointer;
+    box-shadow: 3px grey;
+    background-color: #849b87;
+    color: #ffffff;
+    float:none;
+    font-family: "Oswald";
+    opacity: 0.7;
+     text-shadow: 1px;
+}
+    
+.top-button-combo{
+    background-color: gray;
+    opacity: 50%;
+}
+
+.bottom-box {
+    padding: 8px 16px;
+    
+    width: 200px;
+    height:200px;
+    border: none;
+    display: block;
+    outline: 0;
+    font-weight: bolder;
+    text-align: center;
+    display: inline-block;
+    margin: 4px 2px;
+}
+
+#index1{
+   
+    background-size: 400px;
+    text-align: center;
+    background-image:url("lg.equalizer-bars-loader.gif");
+    margin: 2px;
+    padding: 2px;
+    border: 1px;
+    
+}
+#index2{
+    
+    padding-left: 20px;
+    border: none;
+    margin-left: 500px;
+    
+}
+#index3{
+    
+    margin-left: 30px;
+    margin-right: 30px;
+}
+#index4{
+    
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+h1{
+    text-shadow:1.5px 1.5px grey;
+    padding: 2px;
+    margin-top: 50px;
+   
+}
+
+h2{
+    text-align: center;
+}
+p1{text-shadow: 0.5px 0.5px grey;
+    text-align:center;
+    margin-top: -100px;
+    line-height:0.5;
+    margin-left: 30px;
+    margin-right: 30px;
+    
+    }
+
+
+
+p2{
+    display: block;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: justify;
+    font-family: "Oswald";
+ }
+
+p3{
+     display: block;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: justify;
+    font-family: "Oswald";
+ }
+
+p4{
+     display: block;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: justify;
+    font-family: "Oswald";
+}
+
+img{
+    vertical-align: middle;
+    float: left;
+}
+span{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    background-color: lightgray;
+    float: right;
+}
+
+
+
